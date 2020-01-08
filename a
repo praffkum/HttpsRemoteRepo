@@ -1,4 +1,9 @@
 This is first line
 Second Line added in remote
+<<<<<<< HEAD
 Third line 
 furth line
+=======
+Fifth Line
+Sixth Line
+>>>>>>> 80b5426b93d34ff3f572e2ab2929e9079123fc3a
